@@ -1,8 +1,8 @@
 {
-  "name": "blog-helper",
+  "name": "blog-writer",
   "version": "1.0.30",
   "description": "",
-  "productName": "BlogHelper",
+  "productName": "BlogWriterer",
   "main": "src/main.js",
   "scripts": {
     "start": "electron .",
